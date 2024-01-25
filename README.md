@@ -44,8 +44,8 @@ spring.jpa.properties.hibernate.jdbc.lab.non_contextual_creation = true
 
 ## Executando o Projeto
 
-Certifique-se de ter um ambiente Java e Maven configurado. Para iniciar a aplicação, execute o seguinte comando na raiz do projeto:
-
+Certifique-se de ter o JDK 21 e o Maven instalados em sua máquina. Abra o projeto no IntelliJ IDEA usando o arquivo pom.xml para baixar todas as dependências.
+Para iniciar a aplicação, execute o seguinte comando na raiz do projeto:
 ```bash
 mvn spring-boot:run
 ```
