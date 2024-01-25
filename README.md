@@ -1,7 +1,7 @@
 # Projeto Spring Boot CRUD Example
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 [![Java Version](https://img.shields.io/badge/Java-21-blue.svg)](https://openjdk.java.net/projects/jdk/11/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 Este é um exemplo de aplicação Spring Boot que demonstra operações CRUD (Create, Read, Update, Delete) em uma entidade de produtos. O objetivo deste projeto é acadêmico, servindo como um exemplo simples de uma aplicação Spring Boot com funcionalidades CRUD.
 
