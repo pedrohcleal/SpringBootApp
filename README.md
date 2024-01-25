@@ -95,4 +95,7 @@ Abaixo estão exemplos de como testar os endpoints usando o Postman.
 - **Endpoint:** DELETE /products/{id}
 - **Resultado Esperado:** Confirmação de exclusão bem-sucedida.
 
-Esses são exemplos básicos para testar as funcionalidades CRUD da aplicação. Certifique-se de ajustar os dados conforme necessário para o seu ambiente.
+## Observações
+Este projeto utiliza o Hibernate e o Spring Data JPA para facilitar a interação com o banco de dados. Certifique-se de ajustar as configurações do banco de dados conforme necessário para o seu ambiente.
+
+Este é um exemplo básico e pode ser expandido para incluir autenticação, autorização, validações mais avançadas, etc., dependendo dos requisitos do projeto.
