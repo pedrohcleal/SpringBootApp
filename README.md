@@ -100,5 +100,3 @@ Abaixo estão exemplos de como testar os endpoints usando o Postman.
 
 ## Observações
 Este projeto utiliza o Hibernate e o Spring Data JPA para facilitar a interação com o banco de dados. Certifique-se de ajustar as configurações do banco de dados conforme necessário para o seu ambiente.
-
-Este é um exemplo básico e pode ser expandido para incluir autenticação, autorização, validações mais avançadas, etc., dependendo dos requisitos do projeto.
